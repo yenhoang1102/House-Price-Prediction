@@ -10,8 +10,8 @@
 ## Dữ liệu
 Bộ dữ liệu sử dụng: **House Prices - Advanced Regression Techniques** (Kaggle)  
 - Link tải: [Google Drive]
-+ tập train: https://drive.google.com/file/d/10MwR0M1IqosabiI1S9gQ7jvE63k00xBs/view?usp=drive_link
-+ tập test:  https://drive.google.com/file/d/1MT-lP4jkTYUxdUQCgtq835x-iDVGbcmH/view?usp=drive_link
++ tập train: https://drive.google.com/file/d/1MxBekO1SWGZIZGmhb-T60NAFKbuPjxJo/view?usp=sharing
++ tập test:  https://drive.google.com/file/d/12cXCBbm4WOt6KEmVOF2kEF8qrFBiqvNs/view?usp=sharing
 
 Gồm các nhãn:
 - `  Id ', 'MSSubClass', 'LotFrontage', 'LotArea', 'OverallQual',...
